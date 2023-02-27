@@ -1,1 +1,1 @@
-A readme file in the created directory, updated
+A readme file in the created directory, updated.
